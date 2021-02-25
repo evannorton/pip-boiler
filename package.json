@@ -24,6 +24,7 @@
         "@babel/preset-env": "^7.13.5",
         "@babel/preset-typescript": "^7.13.0",
         "@types/jest": "^24.9.1",
+        "axios": "^0.21.1",
         "jest": "^24.9.0"
     }
 }
